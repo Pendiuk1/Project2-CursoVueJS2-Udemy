@@ -1,4 +1,4 @@
-# todo
+# Course available in [Udemy](https://www.udemy.com/course/vue-js-completo/)
 
 ## Project setup
 ```
